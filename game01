@@ -2,16 +2,19 @@
 [Site "Chennai, Tamil Nadu IND"]
 [Date "2013.11.09"]
 [Round "01"]
+% 120|0 for first 40 moves, 60|0 for moves 41-60, then 15|30 remaining.
+[TimeControl "40/7200:20/3600:900+30"]
 [White "Carlsen, Magnus"]
 [Black "Anand, Viswanathan"]
 [WhiteCountry "NOR"]
 [BlackCountry "IND"]
 [WhiteElo "2870"]
 [BlackElo "2775"]
-[ECO "A07"]
-[Opening "Reti, King's Indian attack"]
+[ECO "D78"]
+[Opening "Neo-Gruenfeld"]
 [Annotator "Morris, Tony"]
 [Source "The official app of the FIDE World Championship Match 2013 (Version 1.1.1)"]
+[PlyCount "32"]
 [Result "1/2-1/2"]
 
 1. Nf3 d5
