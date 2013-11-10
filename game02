@@ -14,7 +14,7 @@
 [Annotator "Morris, Tony"]
 [Source "The official app of the FIDE World Championship Match 2013 (Version 1.1.1)"]
 [PlyCount "30"]
-[Result "-"]
+[Result "1/2-1/2"]
 
 1. e4 c6
 2. d4 d5
@@ -41,5 +41,5 @@
 23. Rgf3 Kg8
 24. Rg3 Kh7
 25. Rf3 Kg8
-26. *
+1/2-1/2
 
