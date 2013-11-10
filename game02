@@ -2,6 +2,7 @@
 [Site "Chennai, Tamil Nadu IND"]
 [Date "2013.11.10"]
 [Round "02"]
+[TimeControl "40/7200:20/3600:900+30"]
 [White "Carlsen, Magnus"]
 [Black "Anand, Viswanathan"]
 [WhiteCountry "NOR"]
@@ -12,6 +13,7 @@
 [Opening "Caro-Kann Defence, Classical"]
 [Annotator "Morris, Tony"]
 [Source "The official app of the FIDE World Championship Match 2013 (Version 1.1.1)"]
+[PlyCount "30"]
 [Result "-"]
 
 1. e4 c6
@@ -27,5 +29,5 @@
 11. f4 Bb4+
 12. c3 Be7
 13. Bd2 Ngf6
-14. 0-0-0 *
+14. 0-0-0 0-0
 
