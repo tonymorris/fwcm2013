@@ -1,0 +1,31 @@
+[Event "2013 World Championship"]
+[Site "Chennai, Tamil Nadu IND"]
+[Date "2013.11.10"]
+[Round "02"]
+[White "Carlsen, Magnus"]
+[Black "Anand, Viswanathan"]
+[WhiteCountry "NOR"]
+[BlackCountry "IND"]
+[WhiteElo "2870"]
+[BlackElo "2775"]
+[ECO "B18"]
+[Opening "Caro-Kann Defence, Classical"]
+[Annotator "Morris, Tony"]
+[Source "The official app of the FIDE World Championship Match 2013 (Version 1.1.1)"]
+[Result "-"]
+
+1. e4 c6
+2. d4 d5
+3. Nc3 dxe4
+4. Nxe4 Bf5
+5. Ng3 Bg6
+6. h4 h6
+7. Nf3 e6
+8. Ne5 Bh7
+9. Bd3 Bxd3
+10. Qxd3 Nd7
+11. f4 Bb4+
+12. c3 Be7
+13. Bd2 Ngf6
+14. 0-0-0 *
+
