@@ -11,7 +11,7 @@
 [BlackElo "2775"]
 [ECO "A07"]
 [Opening "King's Indian Attack"]
-[Annotator "Morris, Tony"]
+[Annotator "Morris, Tony; Elrod, Ricky"]
 [Source "The official app of the FIDE World Championship Match 2013 (Version 1.1.1)"]
 [PlyCount "-"]
 [Result "-"]
@@ -28,4 +28,6 @@
 10. Bd2 Nd4
 11. Nxd4 exd4
 12. Ne4 c6
-13. Bb4 *
+13. Bb4 Be6
+14. Qc1 Bd5
+15. a4
