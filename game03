@@ -13,8 +13,8 @@
 [Opening "King's Indian Attack"]
 [Annotator "Morris, Tony; Elrod, Ricky"]
 [Source "The official app of the FIDE World Championship Match 2013 (Version 1.1.1)"]
-[PlyCount "-"]
-[Result "-"]
+[PlyCount "102"]
+[Result "1/2-1/2"]
 
 1. Nf3 d5
 2. g3 g6
@@ -67,3 +67,4 @@
 49. Ke4 Bd4
 50. Kf5 Bf2
 51. Kxe5 Bxg3+
+1/2-1/2
